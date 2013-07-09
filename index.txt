@@ -1,9 +1,0 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Goobie Goobers</title>
-	</head>
-	<body>
-		<p>This is the adventures of goobie goobers</p>
-	</body>
-</html>
